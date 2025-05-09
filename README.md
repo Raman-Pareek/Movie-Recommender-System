@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 # movie-recommender-system-tmdb-dataset
-A content based movie recommender system using cosine similarity
+A content based movie recommender system using cosine similarity to recommend 5 similar movies.
+
+Streamlit is being used to create the UI and ML is being used to create the tags based algorithm.
 =======
 # Movie-Recommender-System
->>>>>>> 8225fc09b721650bdeaa9e27df84d699a2dab5c7
+
